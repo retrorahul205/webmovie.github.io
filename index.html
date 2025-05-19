@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EntertainHub</title>
+    <link rel="icon" type="image/png" href="png-transparent-a-o-t-wings-of-freedom-attack-on-titan-logo-eren-yeager-corps-fotor-bg-remover-202504142389.png">
+    <link rel="stylesheet" href="styles.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+</head>
+<body>
+    <header>
+        <div class="nav container">
+            <!-- Logo -->
+            <a href="index.html" class="logo">
+                <img src="sample/png-transparent-a-o-t-wings-of-freedom-attack-on-titan-logo-eren-yeager-corps-fotor-bg-remover-202504142389.png" alt="EntertainHub" class="logo-img">
+                Entertain<span>Hub</span>
+            </a>
+
+            <!-- Search-Box -->
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="Search movie">
+                <i class='bx bx-search-alt'></i>
+            </div>
+
+            <!-- User -->
+            <a href="login.html" class="user" id="login-link">
+                <span id="login-text" style="color: #ffb43a;">Login</span>
+            </a>
+                       
+              
+            <!-- NavBar -->
+            <div class="navbar">
+                <a href="#home" class="nav-link nav-active">
+                    <i class='bx bx-home-smile'></i>
+                    <span class="nav-link-title">Home</span>
+                </a>
+                <a href="#popular" class="nav-link">
+                    <i class='bx bxs-hot'></i>
+                    <span class="nav-link-title">Trending</span>
+                </a>
+                <a href="#movies" class="nav-link">
+                    <i class='bx bx-compass'></i>
+                    <span class="nav-link-title">Explore</span>
+                </a>
+                <a href="#movies" class="nav-link">
+                    <i class='bx bx-tv'></i>
+                    <span class="nav-link-title">Movies</span>
+                </a>
+                <a href="favorites.html" class="nav-link">
+                    <i class='bx bxs-happy-heart-eyes'></i>
+                    <span class="nav-link-title">Favourite</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Home Section Start -->
+    <section class="home container" id="home">
+        <img id="home-image" class="home-img" src="https://motionarray.imgix.net/1592543-oZk51qMtCK-high_0009.jpg?w=660&q=60&fit=max&auto=format" alt="Loading...">
+        <div class="home-text">
+            <h1 class="home-title" id="home-title">Loading...</h1>
+            <p id="release-date">Loading...</p>
+            <a href="#" id="featured-movie-link" class="watch-btn">
+                <i class='bx bx-right-arrow'></i>
+                <span>View Details</span>
+            </a>
+        </div>
+    </section>
+    <!-- Home Section End -->
+
+    <!-- Popular-section Start -->
+    <section class="popular container" id="popular">
+        <div class="heading">
+            <h2 class="heading-title">Popular Movies</h2>
+            <!-- Swiper-Buttons -->
+            <div class="swiper-btn">
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+        </div>
+        <!-- Content -->
+        <div class="popular-content swiper">
+            <div class="swiper-wrapper" id="popular-movies">
+                <!-- Movies will be loaded here dynamically -->
+            </div>
+        </div>
+    </section>
+    <!-- Popular-section End -->
+
+    <!-- Movies-section Start -->
+    <section class="movies container" id="movies">
+        <div class="heading">
+            <h2 class="heading-title">Movies and Shows</h2>
+        </div>
+        <!-- Movies Content -->
+        <div class="movies-content" id="movies-grid">
+            <!-- Movies will be loaded here dynamically -->
+        </div>
+    </section>
+    <!-- Movies-section End -->
+
+    <!-- Next-page -->
+    <div class="next-page">
+        <a href="#" class="next-btn">Next Page</a>
+    </div>
+
+    <!-- Copyright -->
+    <div class="copyright">
+        <p>&#169; EntertainHub All Right Reserved</p>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const loginLink = document.getElementById('login-link');
+            const loginText = document.getElementById('login-text');
+            const user = JSON.parse(localStorage.getItem('user'));
+        
+            if (user && user.username) {
+                // Remove the text span
+                if (loginText) {
+                    loginText.remove();
+                }
+        
+                // Create and append user image
+                const userImg = document.createElement('img');
+                userImg.src = 'https://m.media-amazon.com/images/M/MV5BMmIxOTE0ZjMtMDliMy00OTNjLWI5YmMtOTRjN2ZiMzJjOTU4XkEyXkFqcGc@._V1_.jpg';
+                userImg.alt = 'user-img';
+                userImg.className = 'user-img';
+                userImg.title = user.username;
+        
+                loginLink.href = '#'; // Disable link after login or change to profile.html if needed
+                loginLink.appendChild(userImg);
+            }
+        });
+        </script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const loginLink = document.getElementById('login-link');
+        const user = JSON.parse(localStorage.getItem('user'));
+    
+        if (user && user.username) {
+            loginLink.innerHTML = ''; // Clear the "login" text
+    
+            // Create user image element
+            const userImg = document.createElement('img');
+            userImg.src = 'https://m.media-amazon.com/images/M/MV5BMmIxOTE0ZjMtMDliMy00OTNjLWI5YmMtOTRjN2ZiMzJjOTU4XkEyXkFqcGc@._V1_.jpg';
+            userImg.alt = 'user-img';
+            userImg.className = 'user-img';
+    
+            // Optional: Add tooltip with username
+            userImg.title = user.username;
+    
+            loginLink.href = '#'; // Make it non-clickable for now (or redirect to profile page)
+            loginLink.appendChild(userImg);
+        }
+    });
+    </script>
+    
+            
+        
+      
+</body>
+</html>

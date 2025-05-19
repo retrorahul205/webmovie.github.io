@@ -1,0 +1,356 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "poster_path": "/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "backdrop_path": "/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+      "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: inception, the implantation of another person's idea into a target's subconscious.",
+      "release_date": "2010-07-16",
+      "vote_average": 8.4,
+      "runtime": 148,
+      "genres": [
+        { "id": 1, "name": "Action" },
+        { "id": 2, "name": "Sci-Fi" },
+        { "id": 3, "name": "Thriller" }
+      ],
+      "youtubeEmbedId": "YoHD9XEInc0",
+      "actors": [
+        { "name": "Leonardo DiCaprio", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_UY317_CR10,0,214,317_AL_.jpg", "character": "Dom Cobb", "wiki_url": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio" },
+        { "name": "Joseph Gordon-Levitt", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTY3NTk0NDI3Ml5BMl5BanBnXkFtZTgwNDA3NjY0MjE@._V1_UY317_CR3,0,214,317_AL_.jpg", "character": "Arthur", "wiki_url": "https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt" },
+        { "name": "Elliot Page", "profile_path": "https://m.media-amazon.com/images/M/MV5BYWY0NzFmYjAtYzMwNC00ODc3LWI2ZWEtOTU3YTM0Y2ZiNTM5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY317_CR12,0,214,317_AL_.jpg", "character": "Ariadne", "wiki_url": "https://en.wikipedia.org/wiki/Elliot_Page" },
+        { "name": "Tom Hardy", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTQ3ODEyNjA4Nl5BMl5BanBnXkFtZTgwMTE4ODMyMjE@._V1_UY317_CR12,0,214,317_AL_.jpg", "character": "Eames", "wiki_url": "https://en.wikipedia.org/wiki/Tom_Hardy" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "backdrop_path": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "release_date": "2008-07-18",
+      "vote_average": 8.5,
+      "runtime": 152,
+      "genres": [
+        { "id": 1, "name": "Action" },
+        { "id": 4, "name": "Crime" },
+        { "id": 5, "name": "Drama" }
+      ],
+      "youtubeEmbedId": "EXeTwQWrcwY",
+      "actors": [
+        { "name": "Christian Bale", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_UY317_CR7,0,214,317_AL_.jpg", "character": "Bruce Wayne / Batman", "wiki_url": "https://en.wikipedia.org/wiki/Christian_Bale" },
+        { "name": "Heath Ledger", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Joker", "wiki_url": "https://en.wikipedia.org/wiki/Heath_Ledger" },
+        { "name": "Aaron Eckhart", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTc4MTAyNzMzNF5BMl5BanBnXkFtZTcwMzQ5MzQzMg@@._V1_UY317_CR6,0,214,317_AL_.jpg", "character": "Harvey Dent", "wiki_url": "https://en.wikipedia.org/wiki/Aaron_Eckhart" },
+        { "name": "Michael Caine", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjAwNzIwNTQ4Ml5BMl5BanBnXkFtZTYwMzE1MTUz._V1_UY317_CR7,0,214,317_AL_.jpg", "character": "Alfred", "wiki_url": "https://en.wikipedia.org/wiki/Michael_Caine" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "release_date": "2014-11-05",
+      "vote_average": 8.3,
+      "runtime": 169,
+      "genres": [
+        { "id": 2, "name": "Sci-Fi" },
+        { "id": 5, "name": "Drama" },
+        { "id": 6, "name": "Adventure" }
+      ],
+      "youtubeEmbedId": "zSWdZVtXT7E",
+      "actors": [
+        { "name": "Matthew McConaughey", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Cooper", "wiki_url": "https://en.wikipedia.org/wiki/Matthew_McConaughey" },
+        { "name": "Anne Hathaway", "profile_path": "https://m.media-amazon.com/images/M/MV5BNjQ5MTAxMDc5OF5BMl5BanBnXkFtZTcwOTI0OTE4OA@@._V1_UY317_CR1,0,214,317_AL_.jpg", "character": "Brand", "wiki_url": "https://en.wikipedia.org/wiki/Anne_Hathaway" },
+        { "name": "Jessica Chastain", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_UY317_CR10,0,214,317_AL_.jpg", "character": "Murph", "wiki_url": "https://en.wikipedia.org/wiki/Jessica_Chastain" },
+        { "name": "Michael Caine", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjAwNzIwNTQ4Ml5BMl5BanBnXkFtZTYwMzE1MTUz._V1_UY317_CR7,0,214,317_AL_.jpg", "character": "Professor Brand", "wiki_url": "https://en.wikipedia.org/wiki/Michael_Caine" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "poster_path": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "release_date": "1994-09-10",
+      "vote_average": 8.5,
+      "runtime": 154,
+      "genres": [
+        { "id": 4, "name": "Crime" },
+        { "id": 5, "name": "Drama" },
+        { "id": 7, "name": "Thriller" }
+      ],
+      "youtubeEmbedId": "s7EdQ4FqbhY",
+      "actors": [
+        { "name": "John Travolta", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTUwNjQ0ODkxN15BMl5BanBnXkFtZTcwMDc5NjQwNw@@._V1_UY317_CR11,0,214,317_AL_.jpg", "character": "Vincent Vega", "wiki_url": "https://en.wikipedia.org/wiki/John_Travolta" },
+        { "name": "Samuel L. Jackson", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Jules Winnfield", "wiki_url": "https://en.wikipedia.org/wiki/Samuel_L._Jackson" },
+        { "name": "Uma Thurman", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjMxNzk1MTQyMl5BMl5BanBnXkFtZTgwMDIzMDEyMTE@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Mia Wallace", "wiki_url": "https://en.wikipedia.org/wiki/Uma_Thurman" },
+        { "name": "Bruce Willis", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_UY317_CR14,0,214,317_AL_.jpg", "character": "Butch Coolidge", "wiki_url": "https://en.wikipedia.org/wiki/Bruce_Willis" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The Matrix",
+      "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "backdrop_path": "/fNG7i7RqMErkcqhohV2a6cV1Ehy.jpg",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "release_date": "1999-03-30",
+      "vote_average": 8.2,
+      "runtime": 136,
+      "genres": [
+        { "id": 1, "name": "Action" },
+        { "id": 2, "name": "Sci-Fi" }
+      ],
+      "youtubeEmbedId": "vKQi3bBA1y8",
+      "actors": [
+        { "name": "Keanu Reeves", "profile_path": "https://m.media-amazon.com/images/M/MV5BNjUxNDcwMTg4Ml5BMl5BanBnXkFtZTcwMjU4NDYyOA@@._V1_UY317_CR15,0,214,317_AL_.jpg", "character": "Neo", "wiki_url": "https://en.wikipedia.org/wiki/Keanu_Reeves" },
+        { "name": "Laurence Fishburne", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Morpheus", "wiki_url": "https://en.wikipedia.org/wiki/Laurence_Fishburne" },
+        { "name": "Carrie-Anne Moss", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTYxMjgwNzEwOF5BMl5BanBnXkFtZTcwNTQ0NzI5Ng@@._V1_UY317_CR12,0,214,317_AL_.jpg", "character": "Trinity", "wiki_url": "https://en.wikipedia.org/wiki/Carrie-Anne_Moss" },
+        { "name": "Hugo Weaving", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjAxMzAyNDQyMF5BMl5BanBnXkFtZTcwOTM4ODcxMw@@._V1_UY317_CR5,0,214,317_AL_.jpg", "character": "Agent Smith", "wiki_url": "https://en.wikipedia.org/wiki/Hugo_Weaving" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Parasite",
+      "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "backdrop_path": "/ApiBzeaa95TNYliSbQ8pJv4Fje7.jpg",
+      "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "release_date": "2019-05-30",
+      "vote_average": 8.5,
+      "runtime": 132,
+      "genres": [
+        { "id": 5, "name": "Drama" },
+        { "id": 7, "name": "Thriller" },
+        { "id": 8, "name": "Comedy" }
+      ],
+      "youtubeEmbedId": "5xH0HfJHsaY",
+      "actors": [
+        { "name": "Song Kang-ho", "profile_path": "https://m.media-amazon.com/images/M/MV5BYWQwMmE5ZTAtNTYwZS00MDU1LWI5ZTQtMjQ1ZTJlNTIwYWY5XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_UY317_CR17,0,214,317_AL_.jpg", "character": "Kim Ki-taek", "wiki_url": "https://en.wikipedia.org/wiki/Song_Kang-ho" },
+        { "name": "Lee Sun-kyun", "profile_path": "https://m.media-amazon.com/images/M/MV5BYTNkOGE5YTMtYmRmZC00OWRhLTk4ZDAtOWUyYjQ5MjAwODI1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY317_CR17,0,214,317_AL_.jpg", "character": "Park Dong-ik", "wiki_url": "https://en.wikipedia.org/wiki/Lee_Sun-kyun" },
+        { "name": "Cho Yeo-jeong", "profile_path": "https://m.media-amazon.com/images/M/MV5BYTcxMDk3YzUtYmE0OS00YTM1LWE2YzctNmYyODMzYjlmMDQ1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY317_CR20,0,214,317_AL_.jpg", "character": "Choi Yeon-gyo", "wiki_url": "https://en.wikipedia.org/wiki/Cho_Yeo-jeong" },
+        { "name": "Choi Woo-shik", "profile_path": "https://m.media-amazon.com/images/M/MV5BZGJmNDBlMzItYWEzZC00MmI1LTk1ZjctOTUyZWU4MmU5Mjc3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY317_CR20,0,214,317_AL_.jpg", "character": "Kim Ki-woo", "wiki_url": "https://en.wikipedia.org/wiki/Choi_Woo-shik" }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Avengers: Endgame",
+      "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "release_date": "2019-04-24",
+      "vote_average": 8.3,
+      "runtime": 181,
+      "genres": [
+        { "id": 1, "name": "Action" },
+        { "id": 2, "name": "Sci-Fi" },
+        { "id": 6, "name": "Adventure" }
+      ],
+      "youtubeEmbedId": "TcMBFSGVi1c",
+      "actors": [
+        { "name": "Robert Downey Jr.", "profile_path": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Tony Stark / Iron Man", "wiki_url": "https://en.wikipedia.org/wiki/Robert_Downey_Jr." },
+        { "name": "Chris Evans", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg", "character": "Steve Rogers / Captain America", "wiki_url": "https://en.wikipedia.org/wiki/Chris_Evans_(actor)" },
+        { "name": "Mark Ruffalo", "profile_path": "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Bruce Banner / Hulk", "wiki_url": "https://en.wikipedia.org/wiki/Mark_Ruffalo" },
+        { "name": "Chris Hemsworth", "profile_path": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Thor", "wiki_url": "https://en.wikipedia.org/wiki/Chris_Hemsworth" }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Shawshank Redemption",
+      "poster_path": "/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+      "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "release_date": "1994-09-23",
+      "vote_average": 8.7,
+      "runtime": 142,
+      "genres": [
+        { "id": 5, "name": "Drama" },
+        { "id": 4, "name": "Crime" }
+      ],
+      "youtubeEmbedId": "NmzuHjWmXOc",
+      "actors": [
+        { "name": "Tim Robbins", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_UY317_CR16,0,214,317_AL_.jpg", "character": "Andy Dufresne", "wiki_url": "https://en.wikipedia.org/wiki/Tim_Robbins" },
+        { "name": "Morgan Freeman", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Ellis Boyd 'Red' Redding", "wiki_url": "https://en.wikipedia.org/wiki/Morgan_Freeman" },
+        { "name": "Bob Gunton", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjA4OTk1NjYwMl5BMl5BanBnXkFtZTcwNDQwMTUyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Warden Norton", "wiki_url": "https://en.wikipedia.org/wiki/Bob_Gunton" },
+        { "name": "William Sadler", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjE0ODk2NjI0OF5BMl5BanBnXkFtZTcwNDQ3MTMwNA@@._V1_UY317_CR14,0,214,317_AL_.jpg", "character": "Heywood", "wiki_url": "https://en.wikipedia.org/wiki/William_Sadler_(actor)" }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+      "overview": "After reuniting with Gwen Stacy, Brooklyn's full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own.",
+      "release_date": "2023-05-31",
+      "vote_average": 8.4,
+      "runtime": 140,
+      "genres": [
+        { "id": 1, "name": "Action" },
+        { "id": 6, "name": "Adventure" },
+        { "id": 9, "name": "Animation" }
+      ],
+      "youtubeEmbedId": "cqGjhVJWtEg",
+      "actors": [
+        { "name": "Shameik Moore", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTY5NzE5NTQ2MF5BMl5BanBnXkFtZTgwMjg5MDI0MTE@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Miles Morales (voice)", "wiki_url": "https://en.wikipedia.org/wiki/Shameik_Moore" },
+        { "name": "Hailee Steinfeld", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTY1NjAwODIzOV5BMl5BanBnXkFtZTgwNjkwNDk3NTE@._V1_UY317_CR12,0,214,317_AL_.jpg", "character": "Gwen Stacy (voice)", "wiki_url": "https://en.wikipedia.org/wiki/Hailee_Steinfeld" },
+        { "name": "Oscar Isaac", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTQ0OTc0NTcyNl5BMl5BanBnXkFtZTgwNTM4MDM5NDE@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Miguel O'Hara / Spider-Man 2099 (voice)", "wiki_url": "https://en.wikipedia.org/wiki/Oscar_Isaac" },
+        { "name": "Jake Johnson", "wiki_url": "https://en.wikipedia.org/wiki/Oscar_Isaac" },
+        { "name": "Jake Johnson", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTQyNzIzMTA0NF5BMl5BanBnXkFtZTcwOTMxMTU1OA@@._V1_UY317_CR12,0,214,317_AL_.jpg", "character": "Peter B. Parker (voice)", "wiki_url": "https://en.wikipedia.org/wiki/Jake_Johnson" }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Oppenheimer",
+      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "backdrop_path": "/rLb2cwF3Pazuxaj0sRXQ037tGI1.jpg",
+      "overview": "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+      "release_date": "2023-07-19",
+      "vote_average": 8.1,
+      "runtime": 180,
+      "genres": [
+        { "id": 5, "name": "Drama" },
+        { "id": 10, "name": "History" },
+        { "id": 7, "name": "Thriller" }
+      ],
+      "youtubeEmbedId": "uYPbbksJxIg",
+      "actors": [
+        { "name": "Cillian Murphy", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTUxMzU2MTk1OF5BMl5BanBnXkFtZTgwNzg4NjAwMzI@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "J. Robert Oppenheimer", "wiki_url": "https://en.wikipedia.org/wiki/Cillian_Murphy" },
+        { "name": "Emily Blunt", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTY0NzIzNDY0OV5BMl5BanBnXkFtZTcwMzI4OTYwNA@@._V1_UY317_CR4,0,214,317_AL_.jpg", "character": "Katherine Oppenheimer", "wiki_url": "https://en.wikipedia.org/wiki/Emily_Blunt" },
+        { "name": "Matt Damon", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_UY317_CR11,0,214,317_AL_.jpg", "character": "Leslie Groves", "wiki_url": "https://en.wikipedia.org/wiki/Matt_Damon" },
+        { "name": "Robert Downey Jr.", "profile_path": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Lewis Strauss", "wiki_url": "https://en.wikipedia.org/wiki/Robert_Downey_Jr." }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Dune",
+      "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "backdrop_path": "/n2VxMTqLxsTBuVuJ6wBL1VZdZGn.jpg",
+      "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "release_date": "2021-09-15",
+      "vote_average": 7.8,
+      "runtime": 155,
+      "genres": [
+        { "id": 2, "name": "Sci-Fi" },
+        { "id": 6, "name": "Adventure" }
+      ],
+      "youtubeEmbedId": "n9xhJrPXop4",
+      "actors": [
+        { "name": "Timothée Chalamet", "profile_path": "https://m.media-amazon.com/images/M/MV5BOWU1Nzg0M2ItYjEzMi00ODliLThkODAtNGEyYzRkZTBmMmEzXkEyXkFqcGdeQXVyNDk2MjQ4Mzk@._V1_UY317_CR13,0,214,317_AL_.jpg", "character": "Paul Atreides", "wiki_url": "https://en.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet" },
+        { "name": "Rebecca Ferguson", "profile_path": "https://m.media-amazon.com/images/M/MV5BNzA4NDA1MTA5NV5BMl5BanBnXkFtZTcwNjMyNTQ3OA@@._V1_UY317_CR6,0,214,317_AL_.jpg", "character": "Lady Jessica", "wiki_url": "https://en.wikipedia.org/wiki/Rebecca_Ferguson_(actress)" },
+        { "name": "Oscar Isaac", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTQ0OTc0NTcyNl5BMl5BanBnXkFtZTgwNTM4MDM5NDE@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Duke Leto Atreides", "wiki_url": "https://en.wikipedia.org/wiki/Oscar_Isaac" },
+        { "name": "Jason Momoa", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTI5MTU5NjM1MV5BMl5BanBnXkFtZTcwODc4MDk0Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Duncan Idaho", "wiki_url": "https://en.wikipedia.org/wiki/Jason_Momoa" }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Everything Everywhere All at Once",
+      "poster_path": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "backdrop_path": "/nW5fUbldp1DYf2uQ3zJTUdachOu.jpg",
+      "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "release_date": "2022-03-24",
+      "vote_average": 7.9,
+      "runtime": 139,
+      "genres": [
+        { "id": 1, "name": "Action" },
+        { "id": 6, "name": "Adventure" },
+        { "id": 8, "name": "Comedy" }
+      ],
+      "youtubeEmbedId": "wxN1T1uxQ2g",
+      "actors": [
+        { "name": "Michelle Yeoh", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTg1NTU5MjkxOF5BMl5BanBnXkFtZTgwMTUwODE4NDM@._V1_UY317_CR12,0,214,317_AL_.jpg", "character": "Evelyn Wang", "wiki_url": "https://en.wikipedia.org/wiki/Michelle_Yeoh" },
+        { "name": "Ke Huy Quan", "profile_path": "https://m.media-amazon.com/images/M/MV5BZTlkYmI3NzktNjA2OC00YTY0LWJiMTEtMDJiM2ZkYmU1NmE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UY317_CR131,0,214,317_AL_.jpg", "character": "Waymond Wang", "wiki_url": "https://en.wikipedia.org/wiki/Ke_Huy_Quan" },
+        { "name": "Jamie Lee Curtis", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_UY317_CR10,0,214,317_AL_.jpg", "character": "Deirdre Beaubeirdre", "wiki_url": "https://en.wikipedia.org/wiki/Jamie_Lee_Curtis" },
+        { "name": "Stephanie Hsu", "profile_path": "https://m.media-amazon.com/images/M/MV5BODI4OTk1ODY3N15BMl5BanBnXkFtZTgwMDIzNDg4NTM@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Joy Wang / Jobu Tupaki", "wiki_url": "https://en.wikipedia.org/wiki/Stephanie_Hsu" }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Godfather",
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "release_date": "1972-03-14",
+      "vote_average": 8.7,
+      "runtime": 175,
+      "genres": [
+        { "id": 5, "name": "Drama" },
+        { "id": 4, "name": "Crime" }
+      ],
+      "youtubeEmbedId": "sY1S34973zA",
+      "actors": [
+        { "name": "Marlon Brando", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_UY317_CR97,0,214,317_AL_.jpg", "character": "Don Vito Corleone", "wiki_url": "https://en.wikipedia.org/wiki/Marlon_Brando" },
+        { "name": "Al Pacino", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Michael Corleone", "wiki_url": "https://en.wikipedia.org/wiki/Al_Pacino" },
+        { "name": "James Caan", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTI5NjkyNDQ3NV5BMl5BanBnXkFtZTcwNjY5NTQ0Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Sonny Corleone", "wiki_url": "https://en.wikipedia.org/wiki/James_Caan" },
+        { "name": "Robert Duvall", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjk1MjA2Mjc2MF5BMl5BanBnXkFtZTcwOTE4MTUwMg@@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Tom Hagen", "wiki_url": "https://en.wikipedia.org/wiki/Robert_Duvall" }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Joker",
+      "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "backdrop_path": "/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+      "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "release_date": "2019-10-02",
+      "vote_average": 8.2,
+      "runtime": 122,
+      "genres": [
+        { "id": 4, "name": "Crime" },
+        { "id": 5, "name": "Drama" },
+        { "id": 7, "name": "Thriller" }
+      ],
+      "youtubeEmbedId": "zAGVQLHvwOY",
+      "actors": [
+        { "name": "Joaquin Phoenix", "profile_path": "https://m.media-amazon.com/images/M/MV5BZGMyY2Q4NTEtMWVkZS00NzcwLTkzNmQtYzBlMWZhZGNhMDhkXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Arthur Fleck / Joker", "wiki_url": "https://en.wikipedia.org/wiki/Joaquin_Phoenix" },
+        { "name": "Robert De Niro", "profile_path": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_UY317_CR13,0,214,317_AL_.jpg", "character": "Murray Franklin", "wiki_url": "https://en.wikipedia.org/wiki/Robert_De_Niro" },
+        { "name": "Zazie Beetz", "profile_path": "https://m.media-amazon.com/images/M/MV5BMGEzNDY2ZjktZGRiYS00YzEwLWJkZTgtZTkyOTY4OTZkNDFhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY317_CR12,0,214,317_AL_.jpg", "character": "Sophie Dumond", "wiki_url": "https://en.wikipedia.org/wiki/Zazie_Beetz" },
+        { "name": "Frances Conroy", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTY5NjQwMjEwNV5BMl5BanBnXkFtZTcwNDI1OTEwNw@@._V1_UY317_CR10,0,214,317_AL_.jpg", "character": "Penny Fleck", "wiki_url": "https://en.wikipedia.org/wiki/Frances_Conroy" }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Barbie",
+      "poster_path": "/iuFNMS8U5cb6xfzi8Qzsk3Yd4C.jpg",
+      "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+      "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "release_date": "2023-07-19",
+      "vote_average": 7.2,
+      "runtime": 114,
+      "genres": [
+        { "id": 8, "name": "Comedy" },
+        { "id": 6, "name": "Adventure" },
+        { "id": 11, "name": "Fantasy" }
+      ],
+      "youtubeEmbedId": "pBk4NYhWNMM",
+      "actors": [
+        { "name": "Margot Robbie", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTgxNDcwMzU2Nl5BMl5BanBnXkFtZTgwNDc3MzUwOTE@._V1_UY317_CR8,0,214,317_AL_.jpg", "character": "Barbie", "wiki_url": "https://en.wikipedia.org/wiki/Margot_Robbie" },
+        { "name": "Ryan Gosling", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_UY317_CR18,0,214,317_AL_.jpg", "character": "Ken", "wiki_url": "https://en.wikipedia.org/wiki/Ryan_Gosling" },
+        { "name": "America Ferrera", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTQ4NDI5MzMwN15BMl5BanBnXkFtZTcwMTI0OTk3Mg@@._V1_UY317_CR4,0,214,317_AL_.jpg", "character": "Gloria", "wiki_url": "https://en.wikipedia.org/wiki/America_Ferrera" },
+        { "name": "Kate McKinnon", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTM2NzI3NTU5Nl5BMl5BanBnXkFtZTcwODkxODAwNA@@._V1_UY317_CR2,0,214,317_AL_.jpg", "character": "Weird Barbie", "wiki_url": "https://en.wikipedia.org/wiki/Kate_McKinnon" }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Avatar: The Way of Water",
+      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "backdrop_path": "/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+      "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "release_date": "2022-12-14",
+      "vote_average": 7.6,
+      "runtime": 192,
+      "genres": [
+        { "id": 2, "name": "Sci-Fi" },
+        { "id": 6, "name": "Adventure" },
+        { "id": 1, "name": "Action" }
+      ],
+      "youtubeEmbedId": "d9MyW72ELq0",
+      "actors": [
+        { "name": "Sam Worthington", "profile_path": "https://m.media-amazon.com/images/M/MV5BZWUwNmEwZTUtYzMxMS00ODg0LWE0MTItMDM3ZDYzMjE4YmIxXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_UY317_CR131,0,214,317_AL_.jpg", "character": "Jake Sully", "wiki_url": "https://en.wikipedia.org/wiki/Sam_Worthington" },
+        { "name": "Zoe Saldana", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTM2MjIwOTc5Nl5BMl5BanBnXkFtZTcwNzQ5ODM1Mw@@._V1_UY317_CR8,0,214,317_AL_.jpg", "character": "Neytiri", "wiki_url": "https://en.wikipedia.org/wiki/Zoe_Saldana" },
+        { "name": "Sigourney Weaver", "profile_path": "https://m.media-amazon.com/images/M/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_UY317_CR12,0,214,317_AL_.jpg", "character": "Kiri", "wiki_url": "https://en.wikipedia.org/wiki/Sigourney_Weaver" },
+        { "name": "Kate Winslet", "profile_path": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg", "character": "Ronal", "wiki_url": "https://en.wikipedia.org/wiki/Kate_Winslet" }
+      ]
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 16
+}
